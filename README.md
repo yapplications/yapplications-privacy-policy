@@ -1,6 +1,6 @@
 # Privacy Policy for all applications developed by yapplications
 
-We collect only data that can help us understand the usage of our app and help us to improve it.
+We collect only data that can help us understand the usage of our app, help us to improve it and display ads.
 
 We **do not** send any personal data including phone numbers, contacts etc..
 
